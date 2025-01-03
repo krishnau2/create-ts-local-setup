@@ -1,0 +1,23 @@
+{
+  "name": "create-ts-local-setup",
+  "version": "1.0.0",
+  "description": "This package will help to setup local TypeScript development environment.",
+  "keywords": [
+    "TypeScript"
+  ],
+  "homepage": "https://github.com/krishnau2/create-ts-local-setup#readme",
+  "bugs": {
+    "url": "https://github.com/krishnau2/create-ts-local-setup/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnau2/create-ts-local-setup.git"
+  },
+  "license": "ISC",
+  "author": "krishnau2",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
