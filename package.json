@@ -17,6 +17,9 @@
   "author": "krishnau2",
   "type": "commonjs",
   "main": "index.js",
+  "bin": {
+    "create-ts-local-setup": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
